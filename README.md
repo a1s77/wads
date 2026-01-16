@@ -17,7 +17,8 @@ Here I have been saving my wad files over time. I do not recommend using more th
 
 ## About Me
 
-###I'm a GoldSRC Mapper, I'm working in ZGaming Community - https://discord.gg/zgaming 
+GoldSRC Mapper
+ZGaming Community - https://discord.gg/zgaming 
 <img width="318" height="246" alt="image" src="https://github.com/user-attachments/assets/57f3acff-2a97-40c8-addc-4f782dd0204d" />
 
 
