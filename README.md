@@ -1,6 +1,6 @@
 # GoldSRC WAD3 Archive
 
-Here I have been saving my wad files over time. I do not recommend using more than one at a time if you have a low-end PC, as each wad is extremely heavy, which can cause lag when using the editor.
+Here I have been saving my wad files over time. I do not recommend using more than one at a time if you have a low-end PC, as each wad is extremely heavy, which can cause lag when using the editor. I compressed approximately 180 WAD files into this 6-file package. It should be noted that there are some personal WADs included in these packages, so there may be textures that you simply won't want to use (such as signatures).
 
 
 ## WAD Files:
