@@ -20,6 +20,11 @@ Here I have been saving my wad files over time. I do not recommend using more th
 <img width="318" height="246" alt="image" src="https://github.com/user-attachments/assets/57f3acff-2a97-40c8-addc-4f782dd0204d" />
 
 
+## Working In
+
+- ZGaming Community as Mapper - https://discord.gg/zgaming
+- Zombie Plague Umbrella as Mapper - https://discord.gg/ekMcGkQFtV
+
 ## My Latest Works
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/70968bab-6b68-4ffc-bd20-1db26be60e11" />
