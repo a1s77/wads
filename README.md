@@ -15,6 +15,12 @@ Here I have been saving my wad files over time. I do not recommend using more th
 
 ## Latest Works
 
+
+<img width="1440" height="900" alt="1" src="https://github.com/user-attachments/assets/e5200095-20b9-4d14-854c-1bb4e805cc6d" />
+<img width="1440" height="900" alt="1" src="https://github.com/user-attachments/assets/848b5316-d350-4895-81b9-680c0a317445" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/47dfa0cd-4952-43e7-81cd-a6abc2a097a9" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/dc003c21-b4e0-46a6-8483-599ff007eb05" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6f3fb5f8-6872-425b-ab01-c99dfc001f93" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/70968bab-6b68-4ffc-bd20-1db26be60e11" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/40acfb1d-c756-407e-b17b-125572cb5a9f" />
 <img width="1440" height="836" alt="image" src="https://github.com/user-attachments/assets/ca652850-75bc-443f-80b1-5421e2f6cf9a" />
